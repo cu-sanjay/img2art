@@ -1,25 +1,31 @@
 {
-  "name": "image-art-converter",
-  "version": "1.0.0",
-  "description": "Convert images to text art and vector formats",
-  "main": "index.js",
+  "name": "artxt",
+  "version": "2.0.0",
+  "type": "module",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "dev": "vite --host 0.0.0.0",
+    "dev:ui": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "canvas": "^2.11.2",
-    "next": "^14.0.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "sharp": "^0.32.6",
-    "vercel": "^46.0.1"
+    "figlet": "^1.11.0",
+    "jimp": "^1.6.1"
   },
   "devDependencies": {
-    "@types/node": "^20.0.0",
-    "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.0",
-    "typescript": "^5.0.0"
+    "@tailwindcss/vite": "^4.1.14",
+    "@types/figlet": "^1.7.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vercel/node": "^5.7.15",
+    "@vitejs/plugin-react": "^5.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^4.1.14",
+    "typescript": "^5.0.0",
+    "vite": "^7.3.0",
+    "wouter": "^3.3.5"
   }
 }
