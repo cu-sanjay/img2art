@@ -1,107 +1,221 @@
+# <div align="center">ARTXT.SYS</div>
+
+<div align="center">
+<pre>
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░████
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██
+░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░▒▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░▒▒▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░████
+</pre>
+
+<img src="https://img.shields.io/badge/ASCII-ENGINE-111111?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/VECTOR-SVG_EXPORT-1b1b1b?style=for-the-badge&logo=svg&logoColor=orange" />
+<img src="https://img.shields.io/badge/FIGLET-TEXT_ART-202020?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/DARK-INTERFACE-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<br/>
+<br/>
+
+<h3>Convert Images and Text into Beautiful Terminal Style Art</h3>
+
+<p>
+ASCII • Unicode • Braille • SVG • Figlet • Dot Matrix • Block Rendering
+</p>
+
+<p>
+<a href="https://img2art.vercel.app/"><strong>LIVE DEMO</strong></a>
+</p>
+</div>
+
+# Preview
+
+<div align="center">
+
+```txt
+       █████╗ ██████╗ ████████╗██╗  ██╗████████╗
+      ██╔══██╗██╔══██╗╚══██╔══╝╚██╗██╔╝╚══██╔══╝
+   ███████║██████╔╝   ██║    ╚███╔╝    ██║
+   ██╔══██║██╔══██╗   ██║    ██╔██╗    ██║
+   ██║  ██║██║  ██║   ██║   ██╔╝ ██╗   ██║
+   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝
 ```
-   _____  _______ _______ _    _ _______
-  |_____| |_____/ |______ \  /   |
-  |     | |    \_ |______  \/    |   .SYS
+</div>
+
+# Features
+
+## IMAGE → ART
+
+Transform uploaded images into terminal-style artwork.
+
+### Supported Formats
+
+* PNG
+* JPG / JPEG
+* WEBP
+* GIF
+* BMP
+
+### Rendering Modes
+
+| Style   | Preview      |
+| ------- | ------------ |
+| ASCII   | `$@#%*+=-:.` |
+| DOTS    | `●◉○•`       |
+| BLOCKS  | `█▓▒░`       |
+| BRAILLE | `⣿⣶⣤`        |
+| LINES   | `╬╪━┃`       |
+
+### Controls
+
+* Width control from `40 → 160`
+* Intensity control from `10 → 100`
+* Invert rendering toggle
+* Real-time rendering preview
+* Drag and drop upload area
+* Export as `.txt`
+* Export as `.svg`
+
+## TEXT → ART
+
+Generate Figlet-style text banners instantly.
+
+### Included Fonts
+
+* Big
+* Standard
+* Banner
+* Block
+* Doom
+* Shadow
+* Slant
+* Ghost
+* Larry 3D
+* Graffiti
+
+### Example Renders
+
+```txt
+   _____             _             
+  / ____|           (_)            
+ | (___   __ _ _ __  _  __ _ _   _
+  \___ \ / _` | '_ \| |/ _` | | | |
+  ____) | (_| | | | | | (_| | |_| |
+ |_____/ \__,_|_| |_| |\__,_|\__, |
+                   _/ |       __/ |
+                  |__/       |___/
 ```
 
-# ARTXT.SYS — Image & Text to Art Converter
-
-Convert images and text into ASCII art, dot art, block art, braille, and SVG — with a dark UI.
-
----
-
-## Features
-
-**Tab 01 · IMAGE → ART**
-- Drag & drop image upload (PNG, JPG, WEBP, GIF, BMP — max 10MB)
-- 5 art styles: ASCII `$@#%*`, DOTS `●◉○`, BLOCKS `█▓▒░`, BRAILLE `⣿⣷⠀`, LINES `╬╪━`
-- Width (40–160), Intensity (10–100), Invert toggle
-- Export as text file or SVG vector
-
-**Tab 02 · TEXT → ART**
-- Figlet-powered ASCII art from any name or text
-- 10 fonts: Big, Standard, Banner, Block, Doom, Shadow, Slant, Ghost, Larry 3D, Graffiti
-- Live debounced preview, one-click copy & download
-
-**Tab 03 · GALLERY**
-- 40+ pre-made art pieces across 5 categories: Hands, Animals, Symbols, Faces, Frames
-- Search + filter by category, one-click copy
-
----
-
-## Project Structure
-
-```
-artxt/
-├── api/                  ← Vercel Serverless Functions
-│   ├── convert.ts        POST /api/convert   — image → art
-│   └── text-art.ts       POST /api/text-art  — text → figlet art
-├── src/                  ← React + Vite frontend
-│   ├── App.tsx
-│   ├── index.css         design system
-│   ├── main.tsx
-│   ├── pages/
-│   │   ├── image-art.tsx
-│   │   ├── text-art.tsx
-│   │   └── gallery.tsx
-│   └── data/
-│       └── gallery.ts    40+ curated art pieces
-├── index.html
-├── package.json
-├── vite.config.ts
-├── vercel.json
-└── tsconfig.json
+```txt
+ _   _      _ _       
+| | | | ___| | | ___  
+| |_| |/ _ \ | |/ _ \
+|  _  |  __/ | | (_) |
+|_| |_|\___|_|_|\___/
 ```
 
----
+```txt
+ _    _      _                          
+| |  | |    | |                         
+| |  | | ___| | ___ ___  _ __ ___   ___
+| |/\| |/ _ \ |/ __/ _ \| '_ ` _ \ / _ \
+\  /\  /  __/ | (_| (_) | | | | | |  __/
+ \/  \/ \___|_|\___\___/|_| |_| |_|\___/
+```
 
-## Local Development
+### Extras
+
+* Live preview updates
+* Debounced rendering
+* One-click copy
+* Download generated text art
+
+## ART GALLERY
+
+Built-in collection of ready-made terminal artwork.
+
+### Categories
+
+* Hands
+* Animals
+* Symbols
+* Faces
+* Frames
+
+### Gallery Examples
+
+```txt
+   ______
+ /|_||_\\__
+(   _    _ _\\
+=`-(_)--(_)-'
+```
+
+```txt
+ /\_/\\
+( o.o )
+ > ^ <
+```
+
+```txt
+   ***   ***
+  ***** *****
+  ***********
+   *********
+    *******
+     ****
+      **
+```
+
+### Gallery Features
+
+* Search artworks instantly
+* Category filters
+* One-click copy
+* 40+ bundled art presets
+
+</div>
+
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,nodejs,vercel" />
+
+</div>
+
+# Local Development
 
 ```bash
+# Install dependencies
 npm install
 
-# Run the frontend locally
+# Start development server
 npm run dev
 ```
 
-Open: http://localhost:5173
+# API
 
----
-
-## Deploy to Vercel
-
-### 1. Push to GitHub
-Push this entire repo to GitHub as-is.
-
-### 2. Create a Vercel Project
-Go to [vercel.com](https://vercel.com) → **Add New Project** → Import your repo.
-
-### 3. Configure these settings
-
-| Setting | Value |
-|---|---|
-| **Framework Preset** | Vite |
-| **Root Directory** | `.` (leave blank / repo root) |
-| **Build Command** | `vite build` |
-| **Output Directory** | `dist` |
-| **Install Command** | `npm install` |
-| **Environment Variables** | *(none required)* |
-
-### 4. Hit Deploy
-
-Vercel will:
-- Build the Vite frontend → `dist/`
-- Deploy `api/convert.ts` + `api/text-art.ts` as serverless functions automatically
-- Route all `/api/*` calls to those functions via `vercel.json`
-
----
-
-## API Reference
-
-### `POST /api/convert`
+## POST `/api/convert`
 
 ```json
-// Request
 {
   "image": "<base64 image>",
   "type": "ascii | dots | blocks | braille | lines",
@@ -109,44 +223,38 @@ Vercel will:
   "intensity": 50,
   "invert": false
 }
-
-// Response
-{ "textArt": "...", "svg": "<svg>...</svg>" }
 ```
 
-### `POST /api/text-art`
+### Response
 
 ```json
-// Request
-{ "text": "HELLO", "font": "Big" }
-
-// Response
-{ "art": "  _   _ ..." }
+{
+  "textArt": "...",
+  "svg": "<svg>...</svg>"
+}
 ```
 
-Available fonts: `Big`, `Standard`, `Banner`, `Block`, `Doom`, `Shadow`, `Slant`, `Ghost`, `Larry 3D`, `Graffiti`
+## POST `/api/text-art`
 
----
+```json
+{
+  "text": "HELLO",
+  "font": "Big"
+}
+```
 
-## Design System
+### Response
 
-Dark UI — black background, lime accent, Space Mono typeface.
+```json
+{
+  "art": "  _   _ ..."
+}
+```
 
-| Token | Value |
-|---|---|
-| Background | `#0a0a0a` |
-| Card | `#161616` |
-| Accent | `#cfff04` (lime) |
-| Text | `#f0f0f0` |
-| Font | Space Mono |
+# Live Website
 
----
+<div align="center">
 
-## Stack
+## [https://img2art.vercel.app/](https://img2art.vercel.app/)
 
-- **React 19** + **Vite 7** — frontend
-- **Tailwind CSS v4** — styling
-- **jimp** — pure-JS image processing (no native binaries, Vercel compatible)
-- **figlet** — ASCII text art
-- **wouter** — lightweight router
-- **@vercel/node** — serverless function types
+</div>
